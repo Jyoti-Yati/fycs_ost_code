@@ -1,0 +1,12 @@
+#python 2nd program based on average of marks
+
+sub1=int(input("Enter the marks of English:"))
+sub2=int(input("Enter the marks of Maths:"))
+sub3=int(input("Enter the marks of Science:"))
+sub4=int(input("Enter the marks of History:"))
+sub5=int(input("Enter the marks of English:"))
+total_marks=(sub1+sub2+sub3+sub4+sub5)
+average_marks=total_marks/5
+print("The average of marks is:",(average_marks))
+
+
